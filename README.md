@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 # 💫 About Me
 **Physics Student at Tel Aviv University**<br>
