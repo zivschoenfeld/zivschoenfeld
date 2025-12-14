@@ -1,7 +1,6 @@
 # 💫 About Me:
 Physics student at Tel Aviv University<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziv-schoenfeld-186ab8300/) 
 
@@ -11,6 +10,4 @@ Physics student at Tel Aviv University<br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zivschoenfeld&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
