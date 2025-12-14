@@ -54,9 +54,18 @@ I am a Physics student at Tel Aviv University passionate about using data to sol
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+<div align="center">
+<a href="https://github.com/zivschoenfeld">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="150" />
+</a>
+<a href="https://github.com/zivschoenfeld">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zivschoenfeld&theme=dark&hide_border=false&layout=compact&langs_count=6" height="150" />
+</a>
+</div>
 
 ### 🌐 Connect with Me
+
 <a href="mailto:zivsh111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a><a href="https://linkedin.com/in/ziv-schoenfeld-186ab8300/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
