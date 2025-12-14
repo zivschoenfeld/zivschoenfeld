@@ -1,12 +1,13 @@
 <div align="center">
 
-# 💫 About Me
-**Physics Student at Tel Aviv University**<br>
-I am a Physics student at Tel Aviv University passionate about using data to solve complex problems.
+# Hi there, I'm Ziv 👋
 
----
+### ⚛️ Physics Student at Tel Aviv University
+*Passionate about using data to solve complex problems.*
 
-### 🛠 Tech Stack
+<br/>
+
+<h3>🛠 Tech Stack</h3>
 
 <table>
   <tr>
@@ -51,21 +52,28 @@ I am a Physics student at Tel Aviv University passionate about using data to sol
   </tr>
 </table>
 
----
+<br/>
 
 ### 📊 GitHub Stats
-
 <div align="center">
-<a href="https://github.com/zivschoenfeld">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="150" />
-</a>
-<a href="https://github.com/zivschoenfeld">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zivschoenfeld&theme=dark&hide_border=false&layout=compact&langs_count=6" height="150" />
-</a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats">
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zivschoenfeld&theme=dark&hide_border=true&layout=compact&langs_count=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zivschoenfeld&theme=default&hide_border=true&layout=compact&langs_count=6">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zivschoenfeld&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Top Languages">
+  </picture>
 </div>
 
-### 🌐 Connect with Me
+<h3>🌐 Connect with Me</h3>
+<a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://linkedin.com/in/ziv-schoenfeld-186ab8300/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-<a href="mailto:zivsh111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a><a href="https://linkedin.com/in/ziv-schoenfeld-186ab8300/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<br/>
+<br/>
 
 </div>
