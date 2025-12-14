@@ -1,10 +1,15 @@
 <div align="center">
 
-# Hi there, I'm Ziv 👋
+<h1>💫 About Me </h1>
 
-### ⚛️ Physics Student at Tel Aviv University
-*Passionate about using data to solve complex problems.*<br/>
+  <h3>Physics Student at Tel Aviv University ⚛️</h3>
 
+  <p>
+    Passionate about using data to solve complex problems.
+    <br>
+    <i>Specializing in Computational Physics, Data Analysis, and Python.</i>
+  </p>
+  
 <h3>🛠 Tech Stack</h3>
 
 <table>
@@ -60,7 +65,7 @@
   </picture>
 </div>
 <h3>🌐 Connect with Me</h3>
-<a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="mailto:zivsh111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://linkedin.com/in/ziv-schoenfeld-186ab8300/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br/>
