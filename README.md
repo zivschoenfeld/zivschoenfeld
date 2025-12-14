@@ -1,16 +1,14 @@
-<div align="center">
+<div align="left">
 
 # 💫 About Me
-**Physics Student at Tel Aviv University**
+**Physics Student at Tel Aviv University**<br>
 I am a Physics student at Tel Aviv University passionate about using data to solve complex problems.
 
 ---
 
-<div align="center">
-
 ### 🛠 Tech Stack
 
-<table align="center">
+<table>
   <tr>
     <td align="center" width="120">
       <b>Languages</b>
@@ -27,7 +25,7 @@ I am a Physics student at Tel Aviv University passionate about using data to sol
     <td align="left">
       <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
       <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy" />
+      <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
       <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
     </td>
   </tr>
@@ -51,8 +49,6 @@ I am a Physics student at Tel Aviv University passionate about using data to sol
     </td>
   </tr>
 </table>
-
-</div>
 
 ---
 
