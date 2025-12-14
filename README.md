@@ -3,9 +3,7 @@
 # Hi there, I'm Ziv 👋
 
 ### ⚛️ Physics Student at Tel Aviv University
-*Passionate about using data to solve complex problems.*
-
-<br/>
+*Passionate about using data to solve complex problems.*<br/>
 
 <h3>🛠 Tech Stack</h3>
 
@@ -52,23 +50,15 @@
   </tr>
 </table>
 
-<br/>
 
 ### 📊 GitHub Stats
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats">
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zivschoenfeld&theme=dark&hide_border=true&layout=compact&langs_count=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zivschoenfeld&theme=default&hide_border=true&layout=compact&langs_count=6">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zivschoenfeld&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Top Languages">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats">
   </picture>
 </div>
-
 <h3>🌐 Connect with Me</h3>
 <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://linkedin.com/in/ziv-schoenfeld-186ab8300/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
