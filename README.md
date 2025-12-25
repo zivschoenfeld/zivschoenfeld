@@ -61,7 +61,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
   </picture>
 </div>
 <h3>🌐 Connect with Me</h3>
