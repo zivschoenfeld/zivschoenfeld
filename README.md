@@ -56,10 +56,14 @@
 </table>
 
 
-### 📊 GitHub Stats
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="zivschoenfeld's github stats" />
-</p>
+<h3> 📊 GitHub Stats</h3>
+ <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  </picture>
+</div>
 <h3>🌐 Connect with Me</h3>
 <a href="mailto:zivsh111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://linkedin.com/in/ziv-schoenfeld-186ab8300/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
