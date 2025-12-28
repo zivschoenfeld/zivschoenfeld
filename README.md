@@ -63,6 +63,10 @@
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
   </picture>
 </div>
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
 
 <h3>🌐 Connect with Me</h3>
 <a href="mailto:zivsh111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
