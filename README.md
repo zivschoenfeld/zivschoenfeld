@@ -5,7 +5,7 @@
   <h3>Physics Student at Tel Aviv University ⚛️</h3>
 
   <p>
-    Passionate about using data to solve complex problems.
+    Passionate about Data Science.
     <br>
     <i>Specializing in Computational Physics, Data Analysis, and Python.</i>
   </p>
