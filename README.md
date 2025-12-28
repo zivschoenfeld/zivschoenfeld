@@ -63,9 +63,10 @@
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
   </picture>
 </div>
+
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{zivschoenfeld}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/zivschoenfeld/count.svg" alt="Visitor's Count" />
 </div>
 
 <h3>🌐 Connect with Me</h3>
