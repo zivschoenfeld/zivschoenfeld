@@ -57,11 +57,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  </picture>
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=zivschoenfeld&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Ziv Schoenfeld's GitHub Stats" />
 </div>
 
 <h3>🌐 Connect with Me</h3>
