@@ -64,11 +64,6 @@
   </picture>
 </div>
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/zivschoenfeld/count.svg" alt="Visitor's Count" />
-</div>
-
 <h3>🌐 Connect with Me</h3>
 <a href="mailto:zivsh111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://linkedin.com/in/ziv-schoenfeld-186ab8300/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
