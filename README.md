@@ -65,7 +65,7 @@
 </div>
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/{zivschoenfeld}/count.svg" alt="Visitor's Count" />
 </div>
 
 <h3>🌐 Connect with Me</h3>
